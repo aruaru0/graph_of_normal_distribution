@@ -1,0 +1,2 @@
+# graph_of_normal_distribution
+Pythonで正規分布のグラフを描く
